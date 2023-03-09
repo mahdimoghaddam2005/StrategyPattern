@@ -1,0 +1,8 @@
+post http://localhost:5161/sms/send
+content-type : application/json
+Message : "Hi Im Mohammad !"
+Receptor : "09357582362"
+# {
+#     "Receptor" : "09374985056",
+#     "Message" : "Hi Im Mohammad!"
+# }
